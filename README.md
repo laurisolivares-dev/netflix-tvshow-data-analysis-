@@ -32,3 +32,6 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre el catálog
 
 **Lauris Olivares** — _Data Engineer en formación_  
 📍 USA | 💻 Proyecto educativo para portafolio  
+
+## 🔗 Ver el análisis completo
+📘 [Haz clic aquí para abrir el notebook](./netflix_tvshows_analysis.ipynb)
