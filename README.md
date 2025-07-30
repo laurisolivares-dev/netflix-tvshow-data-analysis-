@@ -2,7 +2,7 @@
 # 📺 Análisis del Catálogo de Netflix: Enfoque en TV Shows
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laurisolivares-dev/netflix-tvshow-data-analysis-/blob/main/Netflix_Data_Analysis.ipynb)
 
-Este proyecto realiza un análisis exploratorio de datos (EDA) sobre el catálogo de títulos tipo "TV Show" disponibles en Netflix, utilizando Python, pandas, matplotlib y seaborn. El enfoque principal es visualizar la evolución de las categorías a lo largo del tiempo.
+Este proyecto realiza un análisis exploratorio de datos (EDA) enfocado exclusivamente en los títulos tipo "TV Show" del catálogo de Netflix. A través de visualizaciones, buscamos identificar tendencias, evolución temporal y las categorías más frecuentes en distintas regiones. Es un proyecto educativo desarrollado con fines de práctica y portafolio.
 
 ## 📁 Dataset
 
@@ -25,14 +25,20 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre el catálog
 
 ## 📊 Resultados destacados
 
-- Aumento de títulos de TV Show desde 2015.
-- Las categorías más comunes incluyen: *International TV Shows*, *Dramas*, *Comedies* y *Reality TV*.
-- Netflix diversificó su catálogo significativamente en los últimos años.
+- 📈 Observamos un aumento progresivo de títulos como TV Show a partir de 2015, con un pico en 2019.
+- 🌎 Una de las categorías más comunes fueron: *International TV Shows*, *Dramas*, *Comedies* y *Reality TV*.
+- 🎯 Se observa una estrategia de diversificación de contenido a nivel global.
+
+## 🖼️ Vista previa
+
+![Visualización de categorías por año](./grafico_categorias.png)
 
 ## 👩‍💻 Autora
 
-**Lauris Olivares** — _Data Engineer en formación_  
+**Lauris Olivares** — *Data Engineer en formación*  
 📍 USA | 💻 Proyecto educativo para portafolio  
+🔗 [GitHub](https://github.com/laurisolivares-dev)
+
 
 ## 🔗 Ver el análisis completo
 📘 [Haz clic aquí para abrir el notebook](./Netflix_Data_Analysis.ipynb)
